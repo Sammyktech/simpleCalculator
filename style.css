@@ -1,0 +1,38 @@
+.container{
+    border: 1px solid black;
+    text-align: center;
+    width: 300px;
+    height: 250px;
+    margin: auto;
+    position: relative;
+    box-shadow: 0px 2px 10px 1px rgba(71, 71, 71, 0.52);
+    border: none;
+    cursor: pointer;
+   
+}
+em{
+    color: dodgerblue;
+    font-size: 25px;
+}
+input{
+    width: 50px;
+    border-color: darkgray;
+    background-color: blanchedalmond;
+
+}
+input:hover{
+    border-color: lightcoral;
+    padding: 2px;
+}
+button:hover{
+    border-color: deepskyblue;
+}
+button{
+    color: white;
+    font-weight: bold;
+    background-color: darkgrey;
+    transition: 2s all ease-in;
+}
+div{
+    /* background-image: url(images/Screenshot\ 7.png); */
+}
